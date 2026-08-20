@@ -1,0 +1,14 @@
+{
+  "milestone": "day-03",
+  "team": "懒得起名组",
+  "members": [
+    "高川石 潘锐 徐梓朔 陈治名"
+  ],
+  "repository_url": "https://github.com/CGXZL/ai-camp-2026-d3-chenzhimingU202412430",
+  "run_command": "python analyze.py",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": false
+}
